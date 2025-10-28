@@ -1,17 +1,13 @@
-# Unittest Workshop
+## Unittest Workshop
 
- A simple Phonebook class with dummy methods for demoing `Unitest` structure and components.
-
- More to come.
+A simple Phonebook class with dummy methods for demoing `Unitest` structure and components.
 
 ## Usage
 
 You should only perform the test with the `python3 -m unittest`
 
 ## Credits
-
- - [David E Lares](https://twitter.com/davidlares3)
+[David Lares S](https://davidlares.com)
 
 ## License
-
- - [MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
